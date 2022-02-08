@@ -5,7 +5,7 @@ package git.demo;
 
 public class App {
     public String getGreeting() {
-        return "Hello Anand!";
+        return "Hello World!";
     }
 
     public static void main(String[] args) {
